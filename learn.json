@@ -1,0 +1,33 @@
+{
+    "slug": "javascript-beginner-exercises-tutorial",
+    "grading": "isolated",
+    "repository": "https://github.com/4GeeksAcademy/javascript-beginner-exercises-tutorial",
+    "title": {
+        "us": "Javascript Beginner Tutorial (interactive)",
+        "es": "Tutorial para Principiantes de Javascript (Interactivo)"
+    },
+    "preview": "https://github.com/4GeeksAcademy/javascript-beginner-exercises-tutorial/blob/master/preview.png?raw=true",
+    "description": {
+        "us": "Enhance your Javascript programming skills with this comprehensive set of interactive and auto-graded exercises. These exercises cover fundamental topics such as variables, loops, conditionals, functions, and arrays. By completing these exercises, students will gain a solid understanding of Javascript basics, preparing them for more advanced programming challenges. Technologies and topics included are ES6 syntax and basic algorithmic thinking.",
+        "es": "Mejora tus habilidades de programación en Javascript con este conjunto completo de ejercicios interactivos y auto-evaluados. Estos ejercicios cubren temas fundamentales como variables, bucles, condicionales, funciones y arreglos. Al completar estos ejercicios, los estudiantes obtendrán una comprensión sólida de los conceptos básicos de Javascript, preparándolos para desafíos de programación más avanzados. Las tecnologías y temas incluidos son sintaxis ES6 y pensamiento algorítmico básico."
+    },
+    "duration": 8,
+    "difficulty": "easy",
+    "videoSolutions": true,
+    "bugsLink": "https://github.com/learnpack/learnpack/issues",
+    "graded": true,
+    "editor": {
+        "version": "5.0",
+        "agent": "vscode"
+    },
+    "telemetry": {
+        "batch": "https://breathecode.herokuapp.com/v1/assignment/me/telemetry?asset_id=149"
+    },
+    "video": {
+        "intro": {
+            "es": "https://www.youtube.com/watch?v=32WbSowUcjc",
+            "en": "https://www.youtube.com/watch?v=GjQEotj3t6Y"
+        }
+    }
+
+}
