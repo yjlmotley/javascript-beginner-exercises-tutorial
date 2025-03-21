@@ -19,10 +19,11 @@ function getAllStudentColors() {
 
 	//your loop here
 	// let exampleColor = getColor(1);
-	for(i = 1; i <= 10; i++) {
-		numberPicker = Math.floor((Math.random() * 4) + 1)
+	for(let i = 1; i <= 10; i++) {
+		let numberPicker = Math.floor((Math.random() * 4) + 1)
 		// console.log(numberPicker);
 		console.log(getColor(numberPicker));
+		// return getColor(numberPicker);
 	}
 }
 
